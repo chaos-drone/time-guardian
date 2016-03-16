@@ -1,0 +1,21 @@
+{
+    "name": "cadrone/php-time-guardian",
+    "description": "Limits the number of requests per set time. Multiple limits possible.",
+    "type": "library",
+    "autoload": {
+        "psr-4": {"Cadrone\\TimeGuardian\\" : ""}
+    },
+    "require-dev": {
+        "phpunit/phpunit": "5.0.*"
+    },
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Pavel Petrov",
+            "email": "pavepet@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    }
+}
