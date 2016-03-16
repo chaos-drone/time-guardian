@@ -1,5 +1,5 @@
 {
-    "name": "cadrone/php-time-guardian",
+    "name": "chaos-drone/php-time-guardian",
     "description": "Limits the number of requests per set time. Multiple limits possible.",
     "type": "library",
     "autoload": {
